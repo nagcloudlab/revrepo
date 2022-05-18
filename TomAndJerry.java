@@ -12,8 +12,12 @@ public class TomAndJerry {
         System.out.println("m3()");
     }
 
+    public void m4() {
+        System.out.println("m4()");
+    }
+
     public void m5() {
-        System.out.println("m5()");
+        System.out.println("m5()")
     }
 
 }
