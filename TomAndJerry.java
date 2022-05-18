@@ -8,4 +8,8 @@ public class TomAndJerry {
         System.out.println("m2()");
     }
 
+    public void m3() {
+        System.out.println("m3()");
+    }
+
 }
